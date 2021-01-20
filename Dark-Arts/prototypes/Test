@@ -1,0 +1,13 @@
+
+
+
+
+
+  {
+              type = data.type,
+              projectile = data.projectile_name,
+              stream = data.projectile_name,
+              beam  = data.projectile_name,
+              entity_name = data.entity,
+              starting_speed = 1
+            }

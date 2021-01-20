@@ -1,0 +1,11 @@
+{
+	"name":"Dark-Arts",
+	"author":"DonGufo",
+	"version":"0.0.1",
+	"title":"Dark Arts",
+	"description":"",
+	"homepage":"",
+	"contact": "",
+	"factorio_version":"1.1",
+	"dependencies": ["base >= 1.1.0"]
+}
